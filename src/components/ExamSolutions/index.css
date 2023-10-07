@@ -1,0 +1,12 @@
+.exam-cont {
+  background-color: #e66832;
+  height: 70vh;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+.home-img {
+  height: 300px;
+  margin-right: 200px;
+  margin-top: 50px;
+}

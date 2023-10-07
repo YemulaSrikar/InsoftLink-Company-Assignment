@@ -1,0 +1,20 @@
+.head-main-cont {
+  background-color: #e66832;
+  height: 70vh;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+.smart-head {
+  font-size: 60px;
+  font-style: 'Roboto';
+  color: #ffffff;
+  font-weight: 600;
+  padding-left: 30px;
+  margin-bottom: 0px;
+}
+.smart-span {
+  font-size: 50px;
+  color: #000000;
+  font-weight: 600;
+}
